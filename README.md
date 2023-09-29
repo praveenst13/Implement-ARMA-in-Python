@@ -3,9 +3,13 @@
 To Write a Program to ARMA in Python
 ## Procedure:
 1.Import necessary libraries
+
 2.Simulate an ARMA(1,1) Process
+
 3. Plot the ARMA(1,1) Data
+
 4.Plot Autocorrelation and Partial Autocorrelation Functions for ARMA(1,1)
+
 5.Simulate an ARMA(2,2) Process and Plot Its ACF and PACF
 ## PROGRAM:
 ```
